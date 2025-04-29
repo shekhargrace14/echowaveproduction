@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Solution 1",
+        "description": "This is the first solution.",
+        "image": "https://images.unsplash.com/32/6Icr9fARMmTjTHqTzK8z_DSC_0123.jpg?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://example.com/solution1",    
+        "tags": ["tag1", "tag2"],
+        "date": "2023-01-01",   
+        "author": "Author 1",
+        "authorLink": "https://example.com/author1"
+    },
+    {
+        "title": "Solution 2",
+        "description": "This is the second solution.",
+        "image": "https://example.com/image2.jpg",
+        "link": "https://example.com/solution2",    
+        "tags": ["tag3", "tag4"],
+        "date": "2023-02-01",   
+        "author": "Author 2",
+        "authorLink": "https://example.com/author2"
+    },
+    {
+        "title": "Solution 3",
+        "description": "This is the third solution.",
+        "image": "https://example.com/image3.jpg",
+        "link": "https://example.com/solution3",    
+        "tags": ["tag5", "tag6"],
+        "date": "2023-03-01",   
+        "author": "Author 3",
+        "authorLink": "https://example.com/author3"
+    },
+    {
+        "title": "Solution 4",
+        "description": "This is the fourth solution.",
+        "image": "https://example.com/image4.jpg",
+        "link": "https://example.com/solution4",    
+        "tags": ["tag7", "tag8"],
+        "date": "2023-04-01",   
+        "author": "Author 4",
+        "authorLink": "https://example.com/author4"
+    },
+    {
+        "title": "Solution 5",
+        "description": "This is the fifth solution.",
+        "image": "https://example.com/image5.jpg",
+        "link": "https://example.com/solution5",    
+        "tags": ["tag9", "tag10"],
+        "date": "2023-05-01",   
+        "author": "Author 5",
+        "authorLink": "https://example.com/author5"
+    },
+    {
+        "title": "Solution 6",
+        "description": "This is the sixth solution.",
+        "image": "https://example.com/image6.jpg",
+        "link": "https://example.com/solution6",    
+        "tags": ["tag11", "tag12"],
+        "date": "2023-06-01",   
+        "author": "Author 6",
+        "authorLink": "https://example.com/author6"
+    },
+    {
+        "title": "Solution 7",
+        "description": "This is the seventh solution.",
+        "image": "https://example.com/image7.jpg",
+        "link": "https://example.com/solution7",    
+        "tags": ["tag13", "tag14"],
+        "date": "2023-07-01",   
+        "author": "Author 7",
+        "authorLink": "https://example.com/author7"
+    },
+    {
+        "title": "Solution 8",
+        "description": "This is the eighth solution.",
+        "image": "https://example.com/image8.jpg",
+        "link": "https://example.com/solution8",    
+        "tags": ["tag15", "tag16"],
+        "date": "2023-08-01",   
+        "author": "Author 8",
+        "authorLink": "https://example.com/author8"
+    },
+    {
+        "title": "Solution 9",
+        "description": "This is the ninth solution.",
+        "image": "https://example.com/image9.jpg",
+        "link": "https://example.com/solution9",
+        "tags": ["tag17", "tag18"],
+        "date": "2023-09-01",
+        "author": "Author 9",
+        "authorLink": "https://example.com/author9"
+    },
+    {
+        "title": "Solution 10",
+        "description": "This is the tenth solution.",
+        "image": "https://example.com/image10.jpg",
+        "link": "https://example.com/solution10",
+        "tags": ["tag19", "tag20"],
+        "date": "2023-10-01",
+        "author": "Author 10",
+        "authorLink": "https://example.com/author10"
+    }
+
+]

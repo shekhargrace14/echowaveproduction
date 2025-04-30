@@ -1,5 +1,6 @@
 "use client";
 import Card from "@/components/Card";
+import Hero from "@/components/Hero";
 import { useEffect, useState } from "react";
 
 interface Solution {
@@ -23,20 +24,23 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="p-6 grid gap-6 md:grid-cols-2">
+    <div className="w-7xl m-auto">
+      <Hero/>
+    <main className="my-4 grid gap-4 md:grid-cols-5">
       {data.map((solution, index) => (
         <Card
-          key={index}
-          title={solution.title}
-          description={solution.description}
-          image={solution.image}
-          link={solution.link}
-          tags={solution.tags}
-          date={solution.date}
-          author={solution.author}
-          authorLink={solution.authorLink}
+        key={index}
+        title={solution.title}
+        description={solution.description}
+        image={solution.image}
+        link={solution.link}
+        tags={solution.tags}
+        date={solution.date}
+        author={solution.author}
+        authorLink={solution.authorLink}
         />
       ))}
     </main>
+      </div>
   );
 }
